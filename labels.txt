@@ -1,0 +1,15 @@
+0 LAPTOPS-HP
+1 LAPTOPS-Asus
+2 LAPTOPS-Lenovo
+3 LAPTOPS-Thinkpad
+4 Mobiles-Infinix
+5 Mobiles-Pixel
+6 Mobiles-Samsung
+7 Mobiles-OnePlus
+8 Keyboard
+9 Mouse-Gaming
+10 Mouse-Office
+11 Watch-Digital
+12 Watch-Analog
+13 Headphones
+14 Waterbottle
